@@ -1,0 +1,1 @@
+import tamplate from './tamplate.hbs';
