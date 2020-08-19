@@ -1,6 +1,10 @@
+
+const form = document.querySelector("#search-form");
+const galleryList = document.querySelector(".gallery");
+const loadMoreButton = document.querySelector(".load");
+
 export default {
-    form: document.querySelector("#search-form"),
-    galleryList: document.querySelector(".gallery"),
-    photoItem: document.querySelector(".photo-item"),
-    button: document.querySelector(".load")
+    form,
+    galleryList,
+    loadMoreButton
 };

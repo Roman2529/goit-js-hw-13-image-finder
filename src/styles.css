@@ -33,7 +33,7 @@ img {
   padding: 0;
 }
 
-.gallery li {
+.gallery div {
   max-width: 25%;
   min-width: 25%;
 }
